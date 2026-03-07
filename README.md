@@ -2,10 +2,9 @@
 
 # Hi, I'm Bruno Pezman 👋
 
-**Software Engineering Student @ University of Buenos Aires**
-**Backend Developer & Musician**
+**Software Engineering Student @University of Buenos Aires**
 
-📍 Buenos Aires, Argentina · 🎹 Musician
+⚙️ Backend Developer · 📍 Buenos Aires, Argentina · 🎹 Musician
 
 <a href="mailto:brunopezman@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -46,13 +45,13 @@ When I'm not refactoring code, you'll find me at the gym or making music.
 <p>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/JUnit%205-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
 </p>
 
-### Tools & Testing
+### Tools / Platforms
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/JUnit%205-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000" />
 </p>
 
