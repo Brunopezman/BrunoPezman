@@ -12,7 +12,7 @@
 <a href="https://drive.google.com/file/d/1gtkXp0NKoHyTqhjl_o7nipmartTcju20/view?usp=sharing">
   <img src="https://img.shields.io/badge/CV-111111?style=for-the-badge&logo=readthedocs&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/brunopezman/">
+<a href="https://www.linkedin.com/in/bruno-pezman-8797bb233/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
