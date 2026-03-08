@@ -55,7 +55,7 @@ When I'm not refactoring code, you'll find me at the gym or making music.
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000" />
 </p>
 
-## Documentation / Modeling
+### Documentation / Modeling
 <p>
   <img src="https://img.shields.io/badge/UML-00599C?style=for-the-badge&logo=uml&logoColor=white" />
   <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
@@ -91,7 +91,6 @@ public class Main {
 - **[Social Network DB](https://github.com/Brunopezman/red-social)** — Architecture <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" />
   
   Relational database design for social interactions. Utilized **Docker Compose** to orchestrate the database container alongside the application services for seamless local development.
-  [Repository Link Here]
 
 ## Projects by category
 
@@ -114,7 +113,16 @@ public class Main {
 
 </details>
 
-</details>
+## Organizations & Groups
+
+<p align="left">
+  <a href="https://github.com/FIUBA-IS1/tpg-squad-2-2025-2c">
+    <img src="https://github.com/FIUBA-IS1.png" width="60px"/>
+  </a>
+  <a href="https://github.com/fiubatps">
+    <img src="https://avatars.githubusercontent.com/u/18745339?s=200&v=4" width="60px"/>
+  </a>
+</p>
 
 ## Contact
 
