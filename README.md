@@ -110,7 +110,7 @@ public class Main {
 - **[Social Network DB](https://github.com/Brunopezman/red-social)** <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />: Design of relational schemas with complex CRUD logic, orchestrated via **Docker Compose**.
 
 ### Software Design & Games:
-- **[Argentum Online](https://github.com/aylenbartomeo/ArgentumOnline-Taller)** <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />: A custom implementation of the classic MMORPG featuring an SDL2/Qt5 client, a persistent TCP/IP server with asynchronous auto-save, and a dedicated JSON-based map editor. 
+- **[Argentum Online](https://github.com/Brunopezman/ArgentumOnline-Taller)** <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />: A custom implementation of the classic MMORPG featuring an SDL2/Qt5 client, a persistent TCP/IP server with asynchronous auto-save, and a dedicated JSON-based map editor. 
 - **[Balatro Game (OOP Modeling)](https://github.com/Brunopezman/algo3_proyecto_tp2)** <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />: A full remake of the card game modeled with **UML** and **SOLID** principles to ensure maintainable and decoupled code.
 - **[C++ Calculator](https://github.com/Brunopezman/calculadoraCPP)**: <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />: Scientific calculator implementation featuring custom exception handling and a modular logging system.
 
