@@ -79,7 +79,7 @@ public class Main {
 ```
 
 ## Featured Projects
-- **[Argentum Online](https://github.com/aylenbartomeo/ArgentumOnline-Taller)** - Implemented in <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+- **[Argentum Online](https://github.com/Brunopezman/ArgentumOnline-Taller)** - Implemented in <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 
   A custom modern implementation of the classic MMORPG, integrating a graphical client, a persistent server, and a dedicated scenario editor.
   
