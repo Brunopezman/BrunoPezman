@@ -1,25 +1,51 @@
 <div align="center">
 
-# Hi, I'm Bruno Pezman 👋
+# Bruno Pezman
 
-**Computer Engineering Student @University of Buenos Aires**
+**Backend Engineer · UBA Computer Engineering · Buenos Aires**
 
-⚙️ Backend Developer · 📍 Buenos Aires, Argentina · 🎹 Musician
+⚙️ Building secure, scalable systems with Spring Boot · Go · C++
 
 <a href="mailto:brunopezman@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+<a href="https://drive.google.com/file/d/1gtkXp0NKoHyTqhjl_o7nipmartTcju20/view?usp=sharing">
+  <img src="https://img.shields.io/badge/CV-111111?style=for-the-badge&logo=readthedocs&logoColor=white" />
+</a>
 <a href="https://www.linkedin.com/in/bruno-pezman-8797bb233/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/Brunopezman">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br/>
 </div>
 
 ## 🚀 About Me
-I'm a 4th-year Computer Engineering student at **UBA** with a strong foundation in **OOP** and problem-solving. 
-I specialize in building secure backend architectures and automated CI/CD pipelines. 
-When I'm not refactoring code, you'll find me at the gym or making music.
+
+4th-year Computer Engineering student at **UBA** focused on building secure backend architectures and automated CI/CD pipelines. I write clean, testable code with SOLID principles and practical OOP.
+
+When I'm not refactoring, you'll find me at the gym or making music.
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brunopezman&theme=dark" alt="GitHub Streak" />
+</div>
+
+## 🔨 Currently Building
+
+- **Rock Merch & Roll** — Full-stack e-commerce con 10+ agentes de IA orquestados, 250+ tests, migración SQLite → PostgreSQL vía Neon, deploy continuo en Render.
+- **Argentum Online** — MMORPG engine en C++20 con cliente SDL2/Qt6, servidor TCP/IP asíncrono y editor de mapas JSON. Build system CMake + GoogleTest + Valgrind.
+
+## 🧠 Engineering Principles
+
+- **Clean Architecture** — Separation of concerns with clear controller → service → data boundaries
+- **Testing First** — Automated unit + integration tests as a requirement, not an afterthought
+- **SOLID Pragmatically** — Design patterns applied where they solve real problems, not for their own sake
+- **CI/CD Mindset** — Docker, GitHub Actions, and automated pipelines for consistent, reproducible deployments
+
 ## Tech Stack
 
 ### Languages
@@ -124,8 +150,6 @@ When I'm not refactoring code, you'll find me at the gym or making music.
   </a>
 </p>
 
-## Contact
+## 📬 Let's Connect
 
-📩 **Email**: brunopezman@gmail.com 
-
-💼 **LinkedIn**: [linkedin.com/in/brunopezman](https://www.linkedin.com/in/bruno-pezman-8797bb233/)
+📩 **Email**: brunopezman@gmail.com · 💼 **LinkedIn**: [linkedin.com/in/brunopezman](https://www.linkedin.com/in/bruno-pezman-8797bb233/)
