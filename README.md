@@ -36,8 +36,8 @@ When I'm not refactoring, you'll find me at the gym or making music.
 
 ## 🔨 Currently Building
 
-- **Rock Merch & Roll** — Full-stack e-commerce con 10+ agentes de IA orquestados, 250+ tests, migración SQLite → PostgreSQL vía Neon, deploy continuo en Render.
-- **Argentum Online** — MMORPG engine en C++20 con cliente SDL2/Qt6, servidor TCP/IP asíncrono y editor de mapas JSON. Build system CMake + GoogleTest + Valgrind.
+- **Rock Merch & Roll** — Full-stack e-commerce with 10+ orchestrated AI agents, 250+ tests, SQLite to PostgreSQL migration via Neon, and continuous deployment on Render.
+- **Argentum Online** — MMORPG engine in C++20 featuring an SDL2/Qt6 client, an asynchronous TCP/IP server, and a JSON map editor. Build system: CMake + GoogleTest + Valgrind.
 
 ## 🧠 Engineering Principles
 
